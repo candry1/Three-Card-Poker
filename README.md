@@ -6,4 +6,4 @@ This project is a recreation of Poker for a Software Design Class from 2022
 
 To run project, open a terminal in the JavaFX_MavenTemplate folder. Run
 
-    mvn clean compile exec:java
+      mvn clean compile exec:java
